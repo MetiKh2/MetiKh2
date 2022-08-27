@@ -4,7 +4,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=MetiKh2&show_icons=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 <br style='matgin-top=10px'>
 <a href="https://github.com/MetiKh2">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MetiKh2" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MetiKh2&theme=dracula" />
 </a>
 <!--
 **MetiKh2/MetiKh2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
